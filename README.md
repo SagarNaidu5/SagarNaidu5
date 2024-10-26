@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SagarNaidu5
+- 👋 Hi, I’m Sagar Naidu
 - 👀 I’m interested in Machine Learning and LLMs
 - 📫 How to reach me:
 - phNo:91-7338260200
