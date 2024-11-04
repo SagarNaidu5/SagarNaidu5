@@ -4,6 +4,7 @@
 - phNo:91-7338260200
 - email:sagarnaidun11@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sagar-naidu-5549b6241
+- Instagram: https://www.instagram.com/sagarnaidu32/profilecard/?igsh=cGtreGRleGI5bmhm
 
 <!---
 SagarNaidu5/SagarNaidu5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
